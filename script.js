@@ -147,3 +147,4 @@ function checkMatchOver() {
         return arrCrossY[0] + ' is the winner';
     }
 }
+console.log("Im the main");
